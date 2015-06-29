@@ -13,10 +13,10 @@ Snap! with Nailduino on Raspberrypi
     * https://github.com/rasplay/PiSnap.git
 * Clone Source
 ```
-    $ cd ~/multisnap
-    $ git clone https://github.com/rasplay/PiSnapND.git
-    $ cd PiSnapND
-    $ sh setup.sh
+$ cd ~/multisnap
+$ git clone https://github.com/rasplay/PiSnapND.git
+$ cd PiSnapND
+$ sh setup.sh
 ```
 
 ### Run
